@@ -1,1 +1,1 @@
-# MSc-Advanced-Project
+# MSc Advanced Project Blog
