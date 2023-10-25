@@ -1,4 +1,4 @@
-# MSc Advanced Project Blog
+# MSc Advanced Project Blog - Clock of Life
 
 ## Project brief
 
