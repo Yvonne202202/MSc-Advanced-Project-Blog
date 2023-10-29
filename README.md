@@ -6,6 +6,8 @@ I once had a discussion the topic of death with my friends. Most of us feel some
 Therefore, I am planning to make an interactive installation around the theme of "life and death", which will incorporate some physics experiments. I hope viewers will come to a different understanding and thinking about death through this interactive installation.
 
 ## Ideation
+### Research
+### 为什么做一个环
 ## Design and Planning
 ## Experimentation
 ## Mechanical Design
