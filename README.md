@@ -7,7 +7,11 @@ Therefore, I am planning to make an interactive installation around the theme of
 
 ## Ideation
 ### Research
+Human's concept of life and death varies due to cultural, religious and other reasons.  Therefore, I think I need to understand people's views on death from a different perspective before I start the project.
 
+People's perceptions of death are often influenced by their religious beliefs. Those with higher levels of religious belief had lower levels of death anxiety. They accept death in a more neutral way. In contrast, people with no religious affiliation were more likely to have death anxiety and positive attitudes about extending life.
+
+In addition, the degree of death anxiety is also related to different regional cultures.
 ### 测试方法
 
 ### 为什么做一个环
