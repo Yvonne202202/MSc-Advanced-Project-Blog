@@ -7,6 +7,7 @@ Therefore, I am planning to make an interactive installation around the theme of
 
 ## Ideation
 ### Research
+### 测试方法
 ### 为什么做一个环
 ## Design and Planning
 ## Experimentation
