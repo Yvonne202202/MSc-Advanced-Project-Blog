@@ -19,7 +19,7 @@ There are some taboos about death in East Asian cultures. For example, people so
 There are different attitudes towards death, even if there are certain differences among people from different cultural backgrounds, there are still some common points.
 In every culture people mourn the dead. In a sense, people respect death, which is also a respect for life.
 
-The famous philosopher Nietzsche once proposed "eternal reincarnation". He believed that the lives of dead individuals would reappear countless times in infinite time. The famous ancient Chinese philosopher Chuang Tzu believed that death is another form of life, not the end of life, but the beginning of life.
+The famous philosopher Nietzsche once proposed "eternal reincarnation". He believed that the lives of dead individuals would reappear countless times in infinite time. The famous ancient Chinese philosopher Zhuangzi believed that death is another form of life, not the end of life, but the beginning of life.
 
 I think I could use installation art to explain the relationship between life and death from a philosophical point of view.
 
