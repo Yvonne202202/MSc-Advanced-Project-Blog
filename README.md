@@ -34,7 +34,7 @@ I think I could use installation art to explain the relationship between life an
   <img src="3.jpg" width="80%">
 </div>
 
-# -------------------------------------------------Updating---------------------------------------------------
+# ------------------------------Updating--------------------------------------
 
 ### Definite the Concept
 
