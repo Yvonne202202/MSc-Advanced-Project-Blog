@@ -23,6 +23,7 @@ The famous philosopher Nietzsche once proposed "eternal reincarnation". He belie
 
 I think I could use installation art to explain the relationship between life and death from a philosophical point of view.
 
+In my work, I would like to show life and death as a never-ending cycle. "Life" is the beginning of the cycle, while "death" signifies its conclusion. However, with every ending comes a new beginning, and the chain of life continues.
 
 ### Physical Experiments and Attempts
 <div align=center>
