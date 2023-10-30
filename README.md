@@ -27,7 +27,12 @@ I think I could use installation art to explain the relationship between life an
 <div align=center>
   <img src="1.jpg" width="80%">
 </div>
-
+<div align=center>
+  <img src="2.jpg" width="80%">
+</div>
+<div align=center>
+  <img src="3.jpg" width="80%">
+</div>
 ### Definite the Concept
 
 ## Design and Planning
