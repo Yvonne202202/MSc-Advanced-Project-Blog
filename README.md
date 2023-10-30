@@ -29,7 +29,7 @@ In my work, I would like to show life and death as a never-ending cycle. "Life" 
 
 After conceptualizing the concept of the "circle of life," I encountered the challenge of how to concretize this "circle." I need to find a way to interact and engage the audience. Furthermore, I aim for this work to reach the viewers.
 
-At the suggestion of my supervisor Jen, I experimented with several different types of sensors and found inspiration by learning about the work of other artists.
+At the suggestion of my supervisor Jen, I experimented with several different types of sensors and found some inspiration by learning about the work of other artists.
 
 <div align=center>
   <img src="1.jpg" width="80%">
