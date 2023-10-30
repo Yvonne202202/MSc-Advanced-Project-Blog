@@ -26,6 +26,9 @@ I think I could use installation art to explain the relationship between life an
 In my work, I would like to show life and death as a never-ending cycle. "Life" is the beginning of the cycle, while "death" signifies its conclusion. However, with every ending comes a new beginning, and the chain of life continues.
 
 ### Physical Experiments and Attempts
+
+After conceptualizing the concept of the "circle of life," I encountered the challenge of how to concretize this "circle." I need to find a way to interact and engage the audience. Furthermore, I aim for this work to reach the viewers.
+
 <div align=center>
   <img src="1.jpg" width="80%">
 </div>
