@@ -23,6 +23,7 @@ The famous philosopher Nietzsche once proposed "eternal reincarnation". He belie
 
 I think I could use installation art to explain the relationship between life and death from a philosophical point of view.
 
+
 ### Physical Experiments and Attempts
 <div align=center>
   <img src="1.jpg" width="80%">
