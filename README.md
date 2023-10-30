@@ -12,6 +12,13 @@ Human's concept of life and death varies due to cultural, religious and other re
 People's perceptions of death are often influenced by their religious beliefs. Those with higher levels of religious belief had lower levels of death anxiety. They accept death in a more neutral way. In contrast, people with no religious affiliation were more likely to have death anxiety and positive attitudes about extending life.
 
 In addition, the degree of death anxiety is also related to different regional cultures.
+
+There are some taboos about death in East Asian cultures. For example, people sometimes avoid talking about death, especially on celebratory occasions. In addition, for traditional East Asians, especially Chinese, the same pronunciation as "death" is considered unlucky. For example, the word for the number "4" and "clock" in Chinese is pronounced the same as "death", so people should not give clocks or watches as gifts, and should also avoid giving things with a number of 4. Although many younger generations of East Asians are more open to these traditional taboos, the influence of such traditional thinking persists.
+
+
+There are different attitudes towards death, even if there are certain differences among people from different cultural backgrounds, there are still some common points.
+In every culture people mourn the dead. In a sense, people respect death, which is also a respect for life.
+
 ### 测试方法
 
 ### 为什么做一个环
