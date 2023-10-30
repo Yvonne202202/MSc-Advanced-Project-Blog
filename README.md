@@ -25,7 +25,7 @@ I think I could use installation art to explain the relationship between life an
 
 ### Physical Experiments and Attempts
 <div align=center>
-  <img src="https://github.com/Yvonne202202/Coding3/blob/main/images/1.png" width="80%">
+  <img src="1.jpg" width="80%">
 </div>
 
 ### Definite the Concept
