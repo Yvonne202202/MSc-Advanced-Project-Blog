@@ -23,12 +23,14 @@ The famous philosopher Nietzsche once proposed "eternal reincarnation". He belie
 
 I think I could use installation art to explain the relationship between life and death from a philosophical point of view.
 
-### 测试方法
+### Physical Experiments and Attempts
 
-### 为什么做一个环
+
+
+### Definite the Concept
 
 ## Design and Planning
-### 步进电机测试
+### Test - Stepper motor
 ### 加概念（三个圆盘）
 ## Experimentation
 ## Mechanical Design
