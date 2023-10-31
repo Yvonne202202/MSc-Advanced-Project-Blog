@@ -33,7 +33,7 @@ Under the suggestion from my supervisor Jen, I experimented with several differe
 
 I saw tools for making clocks for children in a shop, and it made me realize that I might be able to make a clock. The time on the clock is 0 o 'clock to 23:59 day after day, which is so similar to the cycle of life. What's more, "clock" sounds similar to the Chinese word "death", which has some symbolic meaning.
 
-However, this clock needs to be different from a regular clock. I think it needs to be able to show the audience the process of life from birth to death, and then from death to birth again.
+However, this clock needs to be different from a regular clock. I think it needs to be able to show the audience the process of life from birth to death, and then from death to birth again. And the interaction between the audience and the interactive installation is critical. The audience is in a sense part of this interactive installation that triggers the “circle of life”.
 
 <div align=center>
   <img src="images/3.jpg" width="80%">
