@@ -35,6 +35,9 @@ I saw tools for making clocks for children in a shop, and it made me realize tha
 
 However, this clock needs to be different from a regular clock. I think it needs to be able to show the audience the process of life from birth to death, and then from death to birth again. And the interaction between the audience and the interactive installation is critical. The audience is in a sense part of this interactive installation that triggers the “circle of life”.
 
+I am considering creating a simulated heart on which the audience can perform CPR. This act initiates the “Circle of Life”, and each CPR attempt by the viewer is like a desperate bid to save a life.   However, all life has its endpoint, marking the inevitable completion of the circle of life. this conclusion does not signify the ultimate end, as every end heralds a new beginning. The intervals on the clock's dial can gradually decrease, simulating the journey towards “death”. At the inception of the “Circle of Life”, it is relatively easier for the audience to save this “life”. But as the hands of the clock edge closer to the endpoint, it races rapidly towards zero, symbolizing the inevitable and the futility in trying to rescue the “life”.
+
+
 <div align=center>
   <img src="images/3.jpg" width="80%">
 </div>
