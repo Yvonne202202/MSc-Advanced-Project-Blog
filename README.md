@@ -25,7 +25,7 @@ In addition to discussing personal death, the death of someone close to you is a
 
 In the face of the death of another, people often suddenly experience a great sense of loss, which is difficult to accept and let go. After the loss of a loved one, it takes a long time for us to adjust and accept the loss. And, even after a long time has passed, we may not be able to fully let go. Certain scenes or things touch our heartstrings and remind us of them at certain moments, which make us ache and miss them. Therefore, how to achieve emotional relief is an important and in-depth issue.
 
-I intend to explore life and death from a philosophical perspective through an interactive installation, and consider how to incorporate the theme of 'release' into the design.
+I intend to explore life and death from a philosophical perspective through an interactive installation, and consider how to incorporate the theme of "let go" into the design.
 
 In my work, I would like to show life and death as a never-ending cycle. "Life" is the beginning of the cycle, while "death" signifies its conclusion. However, with every ending comes a new beginning, and the chain of life continues.
 
