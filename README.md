@@ -39,7 +39,7 @@ However, this clock needs to be different from a regular clock. I think it needs
   <img src="images/3.jpg" width="80%">
 </div>
 <div align=center>
-  <img src="2.jpg" width="80%">
+  <img src="images/2.jpg" width="80%">
 </div>
 <div align=center>
   <img src="3.jpg" width="80%">
