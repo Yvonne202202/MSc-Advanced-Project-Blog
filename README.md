@@ -31,6 +31,8 @@ After conceptualizing the concept of the "circle of life," I encountered the cha
 
 Under the suggestion from my supervisor Jen, I experimented with several different types of sensors and found some inspiration by studying the work of other artists. And I went to several material shops to explore if there was anything I could use.
 
+I saw tools for making clocks for children in a shop, and it made me realize that I might be able to make a clock. Not only because the clock can embody the concept of "circle", but it also rhymes with the Chinese word "death".
+
 <div align=center>
   <img src="1.jpg" width="80%">
 </div>
