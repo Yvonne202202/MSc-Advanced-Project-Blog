@@ -36,7 +36,7 @@ I saw tools for making clocks for children in a shop, and it made me realize tha
 However, this clock needs to be different from a regular clock. I think it needs to be able to show the audience the process of life from birth to death, and then from death to birth again.
 
 <div align=center>
-  <img src="1.jpg" width="80%">
+  <img src="images/3.jpg" width="80%">
 </div>
 <div align=center>
   <img src="2.jpg" width="80%">
