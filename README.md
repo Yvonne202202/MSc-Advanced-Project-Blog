@@ -31,7 +31,7 @@ After conceptualizing the concept of the "circle of life," I encountered the cha
 
 Under the suggestion from my supervisor Jen, I experimented with several different types of sensors and found some inspiration by studying the work of other artists. And I went to several material shops to explore if there was anything I could use.
 
-I saw tools for making clocks for children in a shop, and it made me realize that I might be able to make a clock. Not only because the clock can embody the concept of "circle", but it also homophonic with the Chinese word "death".
+I saw tools for making clocks for children in a shop, and it made me realize that I might be able to make a clock. The time on the clock is 0 o 'clock to 23:59 day after day, which is so similar to the cycle of life. What's more, "clock" sounds similar to the Chinese word "death", which has some symbolic meaning.
 
 However, this clock needs to be different from a regular clock. I think it needs to be able to show the audience the process of life from birth to death, and then from death to birth again.
 
