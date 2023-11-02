@@ -45,6 +45,9 @@ I am considering creating a simulated heart on which the audience can perform CP
 <div align=center>
   <img src="images/3.jpg" width="80%">
 </div>
+
+However, the detailed design of the dial requires deeper consideration. In my initial search for inspiration, I considered elements that could symbolize life and death. To depict life, I thought of using vibrant green and red, with green representing life and red symbolizing blood. For representing death, I considered using black, dark tones, fallen leaves, stars, and butterflies.
+
 <div align=center>
   <img src="images/2.jpg" width="80%">
 </div>
