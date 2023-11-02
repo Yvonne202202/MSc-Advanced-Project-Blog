@@ -57,7 +57,7 @@ For the first version of the prototype, I came up with the idea of using a mecha
 
 <div align=center>
   <img src="images/10.jpg" width="40%">
-  <img src="images/11.jpg" width="40%">
+  <img src="images/12.jpg" width="40%">
 </div>
 
 <div align=center>
