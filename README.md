@@ -56,8 +56,8 @@ However, the detailed design of the clock requires deeper consideration. In my i
 For the first version of the prototype, I came up with the idea of using a mechanical butterfly as the bell of this clock, which rings the bell when time returns to zero. But after discussing it with Jen, my supervisor, I realized that I should focus more on the design of the clock face than the rest of it.
 
 <div align=center>
-  <img src="images/10.jpg" width="60%">
-  <img src="images/11.jpg" width="60%">
+  <img src="images/10.jpg" width="50%">
+  <img src="images/11.jpg" width="50%">
 </div>
 
 <div align=center>
