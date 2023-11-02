@@ -50,6 +50,7 @@ However, the detailed design of the clock requires deeper consideration. In my i
 
 <div align=center>
   <img src="images/2.jpg" width="40%">
+  <img src="images/13.jpg" width="40%">
 </div>
 
 
