@@ -48,8 +48,6 @@ I considered creating a simulated heart on which the audience can perform CPR. T
 
 However, the detailed design of the clock requires deeper consideration. In my initial search for inspiration, I considered elements that could symbolize life and death. To depict life, I thought of using vibrant green and red, with green representing life and red symbolizing blood. For representing death, I considered using black, dark tones, fallen leaves, stars, and butterflies.
 
-While designing the clock face, I came across some interesting materials while seeking inspiration. A paper-cut artwork captivated me.   Its creator had carved doves' shape from thick cardboard and took it outdoors, providing a unique view of the natural scenery through the cut-out shapes. Another source of inspiration was a drawing from the book 'The Ecological Relations of Roots' by John Ernest Weaver (1919), which illustrates a plant's root system but reminded me of human blood vessels.   This sparked an idea to merge the pattern of blood vessels with hollow carving, allowing viewers to observe life's pulsations through the "blood vessels". Similarly, this design could also represent tree roots, as both roots and blood vessels are symbols of life.
-
 <div align=center>
   <img src="images/2.jpg" width="40%">
   <img src="images/13.jpg" width="40%">
@@ -57,6 +55,8 @@ While designing the clock face, I came across some interesting materials while s
 
 
 For the first version of the prototype, I came up with the idea of using a mechanical butterfly as the bell of this clock, which rings the bell when time returns to zero. But after discussing it with Jen, my supervisor, I realized that I should focus more on the design of the clock face than the rest of it.
+
+While designing the clock face, I came across some interesting materials while seeking inspiration. A paper-cut artwork captivated me.   Its creator had carved doves' shape from thick cardboard and took it outdoors, providing a unique view of the natural scenery through the cut-out shapes. Another source of inspiration was a drawing from the book 'The Ecological Relations of Roots' by John Ernest Weaver (1919), which illustrates a plant's root system but reminded me of human blood vessels.   This sparked an idea to merge the pattern of blood vessels with hollow carving, allowing viewers to observe life's pulsations through the "blood vessels". Similarly, this design could also represent tree roots, as both roots and blood vessels are symbols of life.
 
 <div align=center>
   <img src="images/10.jpg" width="40%">
