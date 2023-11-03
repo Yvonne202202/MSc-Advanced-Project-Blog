@@ -64,7 +64,7 @@ While designing the clock face, I came across some interesting materials while s
 </div>
 
 <div align=center>
-  <img src="images/6.pic.jpg" width="80%">
+  <img src="images/15.pic.jpg" width="80%">
 </div>
 <div align=center>
   <img src="images/5.jpg" width="80%">
