@@ -76,7 +76,7 @@ I plan to make a clock face made of three superimposed discs. The topmost disc i
 
 ### Definite the Concept
 
-## Design and Planning
+## Experimentation
 ### Test - Stepper motor
 ### 加概念（三个圆盘）
 ## Experimentation
