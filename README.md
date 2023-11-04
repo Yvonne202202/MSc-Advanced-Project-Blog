@@ -78,6 +78,7 @@ I plan to make a clock face made of three superimposed coaxial discs. The topmos
 <div align=center>
   <img src="images/16.jpg" width="60%">
 </div>
+My goal is to control two outputs with two inputs. The first input is a heart rate sensor. The sensor will be connected to the viewer's finger, and when the sensor recognizes the different heart rates of different viewers, it controls the rotation of the disc of the clock face to get different heart rate patterns. And the other sensor is the pressure sensor. It will be placed on a simulated heart, which viewers will need to perform "CPR" to control the rotation of the clock's hands.
 
 ## Experimentation
 ### Test - Stepper motor
