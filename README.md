@@ -72,9 +72,8 @@ I plan to make a clock face made of three superimposed coaxial discs. The topmos
   <img src="images/5.jpg" width="80%">
 </div>
 
-# ------------------------------Updating--------------------------------------
 
-### Definite the Concept
+### Determine Design Objectives
 
 ## Experimentation
 ### Test - Stepper motor
