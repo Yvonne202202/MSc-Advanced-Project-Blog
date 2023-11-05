@@ -70,7 +70,7 @@ I plan to make a clock face made of three superimposed coaxial discs. The topmos
 </div>
 
 <div align=center>
-  <img src="images/7.jpg" width="17%">
+  <img src="images/7.jpg" width="17.5%">
   <img src="images/20.jpg" width="40%">
 </div>
 
