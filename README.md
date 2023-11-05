@@ -86,7 +86,11 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 
 ## Experimentation
 ### Test - Stepper Motor
+
+
 ### Test - Heart Rate Sensor
+
+
 ### Laser Cutting
 
 <div align=center>
