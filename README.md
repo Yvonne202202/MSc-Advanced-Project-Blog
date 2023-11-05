@@ -67,8 +67,8 @@ I plan to make a clock face made of three superimposed coaxial discs. The topmos
 
 <div align=center>
   <img src="images/15.png" width="40%">
-  <img src="images/7.jpg" width="40%">
-  <img src="images/8.jpg" width="40%">
+  <img src="images/20.jpg" width="40%">
+  <img src="images/21.jpg" width="40%">
 </div>
 
 <div align=center>
