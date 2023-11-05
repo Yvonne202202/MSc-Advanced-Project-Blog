@@ -66,7 +66,10 @@ While designing the clock face, I came across some interesting materials while s
 I plan to make a clock face made of three superimposed coaxial discs. The topmost disc is transparent, engraved with time scales and remaining fixed. The second disc layer is made of opaque material with a blood vessel cutout design, allowing one to see through to the third layer. The bottom disc is made of colorful materials, representing life. I imagine that the second and third discs could be rotated according to the audience's interaction, such as through a heart rate sensor that detects the audience's heart rates and displays varying patterns based on the different readings.
 
 <div align=center>
-  <img src="images/15.png" width="40%">
+  <img src="images/15.png" width="80%">
+</div>
+
+<div align=center>
   <img src="images/7.jpg" width="40%">
   <img src="images/20.jpg" width="40%">
 </div>
