@@ -91,7 +91,7 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 
 <div align=center>
   <img src="images/21.jpg" width="40%">
-  <img src="images/5.jpg" width="50%">
+  <img src="images/5.jpg" width="51%">
 </div>
 
 ## Mechanical Design
