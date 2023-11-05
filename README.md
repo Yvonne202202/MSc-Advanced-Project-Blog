@@ -83,7 +83,6 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 ## Experimentation
 ### Test - Stepper motor
 ### 加概念（三个圆盘）
-## Experimentation
 ## Mechanical Design
 ## Appearance Optimization
 ## User Experience
