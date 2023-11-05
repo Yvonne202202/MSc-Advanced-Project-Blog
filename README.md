@@ -74,9 +74,7 @@ I plan to make a clock face made of three superimposed coaxial discs. The topmos
   <img src="images/20.jpg" width="40%">
 </div>
 
-<div align=center>
-  <img src="images/5.jpg" width="80%">
-</div>
+
 
 
 ### Determine Design Objectives
@@ -87,8 +85,15 @@ I plan to make a clock face made of three superimposed coaxial discs. The topmos
 My goal is to control two outputs with two inputs. The first input is the heart rate sensor. The sensor will be connected to the experiencer's finger, and when the sensor recognizes the different heart rates of different experiencers, it will control the rotation of the clock face disc, resulting in different heart rate patterns. The other sensor is the pressure sensor. It will be placed on a simulated heart, and the experiencer could perform "CPR" to control the rotation of the clock hand.
 
 ## Experimentation
-### Test - Stepper motor
-### 加概念（三个圆盘）
+### Test - Stepper Motor
+### Test - Heart Rate Sensor
+### Laser Cutting
+
+<div align=center>
+  <img src="images/14.jpg" width="17.2%">
+  <img src="images/5.jpg" width="40%">
+</div>
+
 ## Mechanical Design
 ## Appearance Optimization
 ## User Experience
