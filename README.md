@@ -89,13 +89,13 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 ### Test - Stepper Motor
 
 <div align=center>
-  <img src="images/17.jpg" width="60%">
+  <img src="images/22.jpg" width="60%">
 </div>
 
 ### Test - Heart Rate Sensor
 
 <div align=center>
-  <img src="images/19.jpg" width="60%">
+  <img src="images/24.jpg" width="60%">
 </div>
 
 ### Laser Cutting
