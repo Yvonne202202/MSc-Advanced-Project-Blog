@@ -95,8 +95,8 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 ### Test - Heart Rate Sensor
 
 <div align=center>
-  <img src="images/24.jpg" width="40%">
-  <img src="images/27.jpg" width="40%">
+  <img src="images/24.jpg" width="50%">
+  <img src="images/27.jpg" width="50%">
 </div>
 
 ### Laser Cutting
