@@ -105,6 +105,10 @@ My goal is to control two outputs with two inputs. The first input is the heart 
   <img src="images/5.jpg" width="53%">
 </div>
 
+<div align=center>
+  <img src="images/25.jpg" width="60%">
+</div>
+
 ## Mechanical Design
 ## Appearance Optimization
 ## User Experience
