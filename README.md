@@ -106,7 +106,7 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 </div>
 
 <div align=center>
-  <img src="images/26.jpg" width="60%">
+  <img src="images/26.jpg" width="80%">
 </div>
 
 ## Mechanical Design
