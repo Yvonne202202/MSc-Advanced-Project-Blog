@@ -119,7 +119,7 @@ My second prototype was made of three discs that were placed upright. I found it
 ## Mechanical Design
 
 <div align=center>
-  <img src="images/35.jpg" width="40%">
+  <img src="images/35.jpg" width="20%">
 </div>
 <div align=center>
   <img src="images/36.jpg" width="43%">
