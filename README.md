@@ -114,6 +114,7 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 <div align=center>
   <img src="images/28.jpg" width="60%">
 </div>
+
 ## Appearance Optimization
 <div align=center>
   <img src="images/29.jpg" width="45%">
@@ -124,5 +125,12 @@ My goal is to control two outputs with two inputs. The first input is the heart 
   <img src="images/32.jpg" width="57%">
   <img src="images/33.jpg" width="30%">
 </div>
+
+## Final Test
+<div align=center>
+  <img src="images/31.jpg" width="60%">
+</div>
+
+## Final Product
 
 ## User Experience
