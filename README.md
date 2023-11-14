@@ -114,11 +114,11 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 
 <div align=center>
   <img src="images/34.jpg" width="50%">
-  <img src="images/35.jpg" width="20%">
+  <img src="images/35.jpg" width="15%">
 </div>
 <div align=center>
   <img src="images/36.jpg" width="40%">
-  <img src="images/28.jpg" width="48%">
+  <img src="images/28.jpg" width="49%">
 </div>
 
 ## Appearance Optimization
