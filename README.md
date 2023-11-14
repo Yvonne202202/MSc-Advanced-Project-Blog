@@ -85,6 +85,12 @@ I plan to make a clock face made of three superimposed coaxial discs. The topmos
 
 My goal is to control two outputs with two inputs. The first input is the heart rate sensor. The sensor will be connected to the experiencer's finger, and when the sensor recognizes the different heart rates of different experiencers, it will control the rotation of the clock face disc, resulting in different heart rate patterns. The other sensor is the compression pressure sensor. It will be placed in a simulated heart, and the experiencer could perform "CPR" to control the rotation of the clock hand.
 
+<div align=center>
+  <img src="images/34.jpg" width="55%">
+</div>
+
+My second prototype was made of three discs that were placed upright. I found it difficult to control the rotation of the three disks during the test. And I was planning to use acrylic as the material for my clock face. I think the load bearing and structure are also problems. After a round of iterations, I got my third version of the prototype. With this version in mind for load-bearing issues, I have removed the top disc from the previous version. And I considered placing the other two horizontally. After experimenting, I thought this version could be achieved.
+
 ## Experimentation
 ### Test - Stepper Motor
 
