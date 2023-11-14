@@ -124,7 +124,7 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 ## Appearance Optimization
 <div align=center>
   <img src="images/29.jpg" width="48%">
-  <img src="images/30.jpg" width="30%">
+  <img src="images/30.jpg" width="40%">
 </div>
 
 <div align=center>
