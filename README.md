@@ -123,7 +123,7 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 
 <div align=center>
   <img src="images/32.jpg" width="57%">
-  <img src="images/33.jpg" width="30%">
+  <img src="images/33.jpg" width="33%">
 </div>
 
 ## Final Test
