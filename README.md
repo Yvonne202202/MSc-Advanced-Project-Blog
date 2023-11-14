@@ -114,7 +114,7 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 
 <div align=center>
   <img src="images/34.jpg" width="50%">
-  <img src="images/35.jpg" width="29%">
+  <img src="images/35.jpg" width="28%">
 </div>
 <div align=center>
   <img src="images/36.jpg" width="43%">
