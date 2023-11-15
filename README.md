@@ -118,6 +118,8 @@ I was going to use the compression pressure sensor to control the top clock face
   <img src="images/26.jpg" width="93%">
 </div>
 
+I used illustrator to design patterns requiring laser cutting and booked a laser cutting workshop at CCI. I finally successfully completed the laser cutting under the guidance of Chris. I used acrylic sheet to cut out the bottom clock face, and used white thick cardboard to cut out the upper clock face with a blood vessel pattern. In addition, I also cut a transparent disk of equal radius to support the cardboard and some small disks to separate the two clock faces.
+
 ## Mechanical Design
 
 <div align=center>
