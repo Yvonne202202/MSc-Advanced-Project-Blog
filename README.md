@@ -91,6 +91,8 @@ My goal is to control two outputs with two inputs. The first input is the heart 
 
 My second prototype was made of three discs that were placed upright. I found it difficult to control the rotation of the three disks during the test. And I was planning to use acrylic as the material for my clock face. I think the load bearing and structure are also problems. After a round of iterations, I got my third version of the prototype. With this version in mind for load-bearing issues, I have removed the top disc from the previous version. And I considered placing the other two horizontally. After experimenting, I thought this version could be achieved.
 
+I was going to use the compression pressure sensor to control the hollow top clock face and the heart rate sensor to control the patterned bottom clock face.  The top clock face needs to reflect the passing of life to the experiencer.  So the effect I would like to achieve is that when the experiencer begins to "save" this "life", it is easy to move to the next scale, and gradually becomes more difficult.  So I want to control the twelve intervals of the clock of life to get smaller and smaller.  Therefore, I considered using a stepper motor to control the rotation Angle of the top clock face.  Due to the weight of the two layers of acrylic sheets, I considered using a DC motor with high torque to control the underlying clock face.
+
 ## Experimentation
 ### Test - Stepper Motor
 
