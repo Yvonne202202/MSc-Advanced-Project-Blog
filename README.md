@@ -129,6 +129,14 @@ I used illustrator to design patterns requiring laser cutting and booked a laser
   <img src="images/36.jpg" width="43%">
   <img src="images/28.jpg" width="48%">
 </div>
+<div align=center>
+  <img src="images/37.jpg" width="40%">
+  <img src="images/28.jpg" width="40%">
+</div>
+<div align=center>
+  <img src="images/39.jpg" width="40%">
+  <img src="images/40.jpg" width="40%">
+</div>
 
 ## Appearance Optimization
 <div align=center>
@@ -139,6 +147,10 @@ I used illustrator to design patterns requiring laser cutting and booked a laser
 <div align=center>
   <img src="images/32.jpg" width="55%">
   <img src="images/33.jpg" width="35%">
+</div>
+
+<div align=center>
+  <img src="images/41.jpg" width="60%">
 </div>
 
 ## Final Test
