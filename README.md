@@ -127,8 +127,8 @@ I used illustrator to design patterns requiring laser cutting and booked a laser
   <img src="images/36.jpg" width="43%">
 </div>
 <div align=center>
-  <img src="images/28.jpg" width="48%">
   <img src="images/42.jpg" width="48%">
+  <img src="images/28.jpg" width="45%">
 </div>
 <div align=center>
   <img src="images/37.jpg" width="45%">
