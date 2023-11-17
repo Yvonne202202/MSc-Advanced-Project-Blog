@@ -105,6 +105,7 @@ I was going to use the compression pressure sensor to control the top clock face
   <img src="images/50.jpg" width="30%">
   <img src="images/51.jpg" width="30%">
 </div>
+
 ### Test - Heart Rate Sensor
 
 <div align=center>
