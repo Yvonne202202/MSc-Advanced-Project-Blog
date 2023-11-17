@@ -146,7 +146,7 @@ I fixed the synchronous wheel used to control the rotation of the belt on the ro
 The shaft of the stepper motor and the DC motor was not long enough, so I needed to extend their shaft. I use a coupling to achieve this effect.
 
 ## Appearance Optimization
-<div align=center>
+I used some colored beads and sequins to create the pattern of the underlying clock face.<div align=center>
   <img src="images/43.jpg" width="45%">
   <img src="images/44.jpg" width="45%">
 </div>
