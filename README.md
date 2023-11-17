@@ -108,6 +108,8 @@ The Arduino UNO board is used to read the status of the  compression pressure se
 
 The initial version of the code did not achieve the effect I desired. During testing, if I continuously pressed the pressure sensor without releasing it, the stepper motor kept running continuously, instead of waiting for me to release and then press again for the next operation. I want to simulate the effect of cardiopulmonary resuscitation (CPR), so it is necessary for the stepper motor to execute once with each press.
 
+However, through monitoring the serial port, I discovered that even with continuous pressure, the detected pressure values fluctuated. I attempted to achieve the desired effect by adjusting the pressure threshold. I set it so that if the pressure is greater than 4, the stepper motor activates, and if it's less than 3, it doesn't move. For values between 3 and 4, it maintains the previous state. This adjustment resulted in the effect I was looking for.
+
 ### Test - Heart Rate Sensor
 
 <div align=center>
