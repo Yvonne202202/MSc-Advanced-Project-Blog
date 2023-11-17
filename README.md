@@ -122,14 +122,19 @@ I used illustrator to design patterns requiring laser cutting and booked a laser
 
 ## Mechanical Design
 
+I need to control the top clock face through the stepper motor and the bottom clock face through the DC motor. The two clock faces are coaxial. I thought I could put the upper and lower layers through the shaft of the stepper motor. I need to make the top layer fixed to the stepper motor shaft and the bottom layer not fixed. Then I can make the top clock face rotate with the shaft of the stepper motor.
 <div align=center>
   <img src="images/35.jpg" width="20%">
   <img src="images/36.jpg" width="44%">
 </div>
+I had trouble controlling the rotation of the underlying clock face, so I booked the tutorial and asked Matt for advice. Matt introduced me to the internal structure of the clock and recommended the wheels for servo, which provided me with inspiration. I thought I could use gears or synchro wheels. 
 <div align=center>
   <img src="images/42.jpg" width="48%">
   <img src="images/28.jpg" width="42%">
 </div>
+I fixed the synchronous wheel used to control the rotation of the belt on the rotating shaft of DC motor, and fixed the bottom clock face with the controlled synchronous wheel. In this way, when the DC motor starts to work, the synchronous wheel on the DC motor rotating shaft will also rotate synchronously with the shaft, so as to control the rotation of the bottom clock face through the pulley.
+
+
 <div align=center>
   <img src="images/37.jpg" width="45%">
   <img src="images/38.jpg" width="45%">
@@ -138,6 +143,7 @@ I used illustrator to design patterns requiring laser cutting and booked a laser
   <img src="images/39.jpg" width="45%">
   <img src="images/40.jpg" width="45%">
 </div>
+The shaft of the stepper motor and the DC motor was not long enough, so I needed to extend their shaft. I use a coupling to achieve this effect.
 
 ## Appearance Optimization
 <div align=center>
