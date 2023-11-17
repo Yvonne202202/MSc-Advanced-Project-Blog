@@ -157,10 +157,10 @@ I layered the two clock faces on top of each other after completion. However, I 
 </div>
 
 <div align=center>
-    <img src="images/48.jpg" width="100%">
+    <img src="images/48.jpg" width="80%">
 </div>
 <div align=center>
-    <img src="images/30.jpg" width="100%">
+    <img src="images/30.jpg" width="80%">
 </div>
 <div align=center>
   <img src="images/32.jpg" width="45%">
