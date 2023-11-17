@@ -151,12 +151,12 @@ The shaft of the stepper motor and the DC motor was not long enough, so I needed
   <img src="images/44.jpg" width="45%">
 </div>
 <div align=center>
-  <img src="images/29.jpg" width="48%">
-  <img src="images/45.jpg" width="44%">
+  <img src="images/29.jpg" width="45%">
+  <img src="images/45.jpg" width="45%">
 </div>
 
 <div align=center>
-  <img src="images/30.jpg" width="60%">
+  <img src="images/30.jpg" width="80%">
 </div>
 <div align=center>
   <img src="images/32.jpg" width="45%">
