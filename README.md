@@ -147,17 +147,25 @@ The shaft of the stepper motor and the DC motor was not long enough, so I needed
 
 ## Appearance Optimization
 <div align=center>
+  <img src="images/43.jpg" width="45%">
+  <img src="images/44.jpg" width="45%">
+</div>
+<div align=center>
   <img src="images/29.jpg" width="48%">
-  <img src="images/30.jpg" width="44%">
+  <img src="images/45.jpg" width="44%">
 </div>
 
 <div align=center>
-  <img src="images/32.jpg" width="55%">
-  <img src="images/33.jpg" width="35%">
+  <img src="images/30.jpg" width="60%">
+</div>
+<div align=center>
+  <img src="images/32.jpg" width="45%">
+  <img src="images/46.jpg" width="45%">
 </div>
 
 <div align=center>
-  <img src="images/41.jpg" width="60%">
+  <img src="images/47.jpg" width="45%">
+  <img src="images/41.jpg" width="45%">
 </div>
 
 ## Final Test
