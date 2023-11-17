@@ -163,6 +163,9 @@ In order to better see the pattern on the surface, I placed an LED light on the 
 <div align=center>
     <img src="images/30.jpg" width="80%">
 </div>
+
+I chose felting Wool and yarn to make the artificial heart. The compression pressure sensor will be placed inside the simulated heart. In order to ensure that the data it reads is not affected, I need the simulated heart to be light and soft. These two materials meet this requirement. They are easy to shape, light, and come in a variety of colors. And yarn can create the effect of blood vessels.
+
 <div align=center>
   <img src="images/32.jpg" width="45%">
   <img src="images/46.jpg" width="45%">
