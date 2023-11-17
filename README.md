@@ -205,5 +205,5 @@ During the final testing, I observed that the upper layer of the clock face exhi
 Before installing the LED lights onto the DC motor, I manually simulated the effect using my phone's flashlight. To my surprise, I found that when the light source was strong enough and rotated around the clock's axis, it created an effect similar to a sundial. Sundials were ancient devices used to tell the time of day based on the sun's position, essentially serving as ancient timekeeping tools. The principle involves using the sun's shadow direction to determine and divide time. My original plan was to install LEDs to achieve this effect. However, due to the rotational axes of the two servos interfering with each other, I have not yet been able to make the light source move around the clock face with a larger radius. I believe I can continue to research this structure to achieve a 'sundial' effect. This would also make the interactive installation more aligned with the theme of "The Clock of Life".
 <div align=center>
   <img src="images/54.jpg" width="45%">
-  <img src="images/53.jpg" width="52%">
+  <img src="images/53.jpg" width="53%">
 </div>
