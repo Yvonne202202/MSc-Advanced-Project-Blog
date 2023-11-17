@@ -99,12 +99,14 @@ I was going to use the compression pressure sensor to control the top clock face
 <div align=center>
   <img src="images/25.jpg" width="30%">
 </div>
-
+The Arduino UNO board is used to read the status of the  compression pressure sensor. I have set the stepper motor's rotation angles to 95, 60, 45, 35, 30, 25, 20, 15, 12, 10, 8, and 5 degrees, and stored them in the array Step. I use a flag and the pressure reading together as the judgment conditions. If the pressure is greater than 1 and the flag is set to true, the stepper motor is activated and operates according to the corresponding number of steps in the array Step, until the pressure is released and no longer applied. When the count exceeds 12, it is reset to 1, thereby cycling through the values in the array Step.
 <div align=center>
   <img src="images/49.jpg" width="30%">
   <img src="images/50.jpg" width="30%">
   <img src="images/51.jpg" width="30%">
 </div>
+
+The initial version of the code did not achieve the effect I desired. During testing, if I continuously pressed the pressure sensor without releasing it, the stepper motor kept running continuously, instead of waiting for me to release and then press again for the next operation. I want to simulate the effect of cardiopulmonary resuscitation (CPR), so it is necessary for the stepper motor to execute once with each press.
 
 ### Test - Heart Rate Sensor
 
