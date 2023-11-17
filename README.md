@@ -159,6 +159,7 @@ I layered the two clock faces on top of each other after completion. However, I 
 <div align=center>
     <img src="images/48.jpg" width="80%">
 </div>
+In order to better see the pattern on the surface, I placed an LED light on the shaft of the DC motor. I need to extend it a little bit along the axis so that the light source is not in a fixed position. In addition, I need to make sure that its placement will not be affected by the stepper motor.
 <div align=center>
     <img src="images/30.jpg" width="80%">
 </div>
