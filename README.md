@@ -190,8 +190,11 @@ I chose felting Wool and yarn to make the artificial heart. The compression pres
 
 ## Final Test
 <div align=center>
-  <img src="images/31.jpg" width="60%">
+  <img src="images/31.jpg" width="50%">
+  <img src="images/52.jpg" width="40%">
 </div>
+
+During the final testing, I observed that the upper layer of the clock face exhibited significant shaking while rotating, as if it was being affected by inertia. At first, I thought it was due to the motor not being securely mounted. However, a closer inspection after dismantling revealed that this was not the problem. After conducting numerous tests, I found that reducing the speed of the stepper motor mitigated the issue.
 
 ## Final Product
 
