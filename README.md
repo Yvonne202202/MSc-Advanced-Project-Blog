@@ -123,7 +123,7 @@ I used illustrator to design patterns requiring laser cutting and booked a laser
 ## Mechanical Design
 
 <div align=center>
-  <img src="images/35.jpg" width="30%">
+  <img src="images/35.jpg" width="20%">
   <img src="images/36.jpg" width="43%">
 </div>
 <div align=center>
