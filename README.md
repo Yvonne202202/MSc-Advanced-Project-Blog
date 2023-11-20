@@ -198,6 +198,12 @@ During the final testing, I observed that the upper layer of the clock face exhi
 
 ## Final Product
 
+<div align=center>
+  <img src="images/55.jpg" width="30%">
+  <img src="images/56.jpg" width="30%">
+  <img src="images/57.jpg" width="30%">
+</div>
+
 ## User Experience
 
 ## Future Work
