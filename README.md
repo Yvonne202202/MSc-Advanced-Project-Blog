@@ -199,7 +199,7 @@ During the final testing, I observed that the upper layer of the clock face exhi
 ## Final Product
 
 <div align=center>
-  <img src="images/55.jpg" width="30%">
+  <img src="images/55.jpg" width="28%">
   <img src="images/58.jpg" width="60%">
 </div>
 <div align=center>
