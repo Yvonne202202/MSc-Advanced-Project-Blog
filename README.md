@@ -118,6 +118,10 @@ However, through monitoring the serial port, I discovered that even with continu
 </div>
 
 I used the MAX30102 heart rate sensor module to read heart rate data in real time. By applying the map function, I converted the heart rate values (BPM) into a range appropriate for PWM output, which in turn enabled the control of the DC motor's rotation. Individually testing the pressure sensor and the heart rate sensor presented no issues. However, occasional difficulties arose in controlling the DC motor when I attempted to merge the code for both sensors.The DC motor frequently operated in an erratic manner. I turned to ChatGPT for assistance, and it was pointed out that the erratic behavior might stem from signal interference between the two sensors or from potential logical clashes within the program when handling inputs from both sensors. Since Arduino programs are typically single-threaded, handling multiple tasks such as reading sensor data and controlling motors can lead to conflicts in timing. I tried avoiding the use of the delay() function, but it still did not achieve the effect I got when testing both motors separately. Eventually, I used two separate Arduino boards to control each module.
+<div align=center>
+  <img src="images/59.png" width="50%">
+</div>
+
 
 ### Laser Cutting
 
