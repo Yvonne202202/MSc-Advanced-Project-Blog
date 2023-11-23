@@ -204,7 +204,7 @@ During the final testing, I observed that the upper layer of the clock face exhi
 
 <div align=center>
   <img src="images/65.png" width="45%">
-  <img src="images/68.jpg" width="45%">
+  <img src="images/69.jpg" width="45%">
 </div>
 <div align=center>
   <img src="images/66.jpg" width="45%">
