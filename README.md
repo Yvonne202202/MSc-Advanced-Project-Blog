@@ -203,11 +203,12 @@ During the final testing, I observed that the upper layer of the clock face exhi
 ## Final Product
 
 <div align=center>
-  <img src="images/55.jpg" width="29%">
-  <img src="images/58.jpg" width="60%">
+  <img src="images/65.png" width="45%">
+  <img src="images/68.jpg" width="45%">
 </div>
 <div align=center>
-  <img src="images/56.jpg" width="90%">
+  <img src="images/66.jpg" width="45%">
+  <img src="images/67.jpg" width="45%">
 </div>
 
 ## User Experience
