@@ -3,6 +3,8 @@
   <img src="images/65.png" width="90%">
 </div>
 
+# Video Link：
+https://vimeo.com/887942953?share=copy
 
 ## Project Brief
 I once had a discussion the topic of death with my friends. Most of us feel some kind of fear when talk about death. This stems not only from the fear of the end of one's own life, but also from the pain of losing those close to them. Death often carries a heavy burden on people, so many people choose to avoid this sensitive topic, which also makes them feel helpless when they actually face death.
