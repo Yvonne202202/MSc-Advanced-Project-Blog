@@ -218,6 +218,7 @@ During the final testing, I observed that the upper layer of the clock face exhi
   <img src="images/64.jpg" width="45%">
 </div>
 I invited two users to participate in the user experience and collected their feedback. Participant A had a general understanding of the subject of this interactive installation before experiencing it, while Participant B experienced it without knowing what the artwork was intended to convey.
+
 During the experience, Participant A made a depleted object come to life by constantly pressing the simulated heart. She found that the Angle of rotation of the round board varied during the pressing process. The top round board was in a static state without pressing on the heart, and she felt that it had lost its life. After she touched the red box, she thought that the change of light and shadow in this installation reminded her of the blooming of life.
 
 Participant B was associated with life because of the heart on the installation and thought that pressing the heart seemed to create heartbeat and revive life. As the Angle of rotation of the round board gradually decreased, she felt that her life was coming to an end. She likens the installation to a tree that has been cut down and is being revived.
